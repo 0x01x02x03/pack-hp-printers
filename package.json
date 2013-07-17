@@ -1,27 +1,27 @@
 {
-	"name": "hp-printers",
-	"types": ["pack"],
-	"version": "1.4",
-	"homepage": "https://github.com/shinken-monitoring/pack-hp-printers",
-	"author": "Jean Gabes",
-	"description": "",
-	"contributors": [
-	  {
-		"name": "Jean Gabes",
-		"email": "naparuba@gmail.com"
-	  },
-	  {
-		"name": "Imrane Dessai",
-		"email": "dessai.imrane@gmail.com"
-	  } 
-	],
-	"repository": "https://github.com/shinken-monitoring/pack-hp-printers",
-	"keywords": [
-	  "pack",
-	  
-	],
-	"dependencies": {
-	  "shinken": ">=1.4"
-	},
-	"license": "AGPL"
+        "name": "hp_printers",
+        "types": ["pack"],
+        "version": "1.4",
+        "homepage": "https://github.com/shinken-monitoring/pack-hp_printers",
+        "author": "Jean Gabes",
+        "description": "Checks for HP Jetdirect compatible printers",
+        "contributors": [
+          {
+                "name": "Jean Gabes",
+                "email": "naparuba@gmail.com"
+          },
+          {
+                "name": "Imrane Dessai",
+                "email": "dessai.imrane@gmail.com"
+          }
+        ],
+        "repository": "https://github.com/shinken-monitoring/pack-hp_printers",
+        "keywords": [
+          "pack",
+          
+        ],
+        "dependencies": {
+          "shinken": ">=1.4"
+        },
+        "license": "AGPL"
 }
