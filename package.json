@@ -3,7 +3,7 @@
         "types": ["pack"],
         "version": "1.4",
         "homepage": "https://github.com/shinken-monitoring/pack-hp-printers",
-        "author": "Jean Gabes",
+        "author": "Jean Gabès",
         "description": "Checks for HP Jetdirect compatible printers",
         "contributors": [
           {
@@ -18,6 +18,9 @@
         "repository": "https://github.com/shinken-monitoring/pack-hp-printers",
         "keywords": [
           "pack",
+	  "hp",
+	  "printer",
+	  "jetdirect"
           
         ],
         "dependencies": {
